@@ -3,7 +3,7 @@
 	"authorName": "Gorakh",
 	"displayName": "Configurable Sirens Call Morse Code",
 	"version_number": "1.0.0",
-	"website_url": "https://github.com/Goorakh/*",
+	"website_url": "https://github.com/Goorakh/ConfigurableSirensCallMorseCode",
 	"description": "Allows you to modify the morse code flashing on Sirens Call",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2100",
